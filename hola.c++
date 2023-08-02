@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main(int argc, char const *argv[])
+int main()
 {
     std::cout<< "El entorno de desarrollo funciona al fin :D";
 }
