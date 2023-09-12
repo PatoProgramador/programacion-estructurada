@@ -4,7 +4,7 @@ int main()
 {
   int a, b, tventa, opcion;
   opcion = 0;
-  cout << "Uso del switch basco " << endl;
+  cout << "Uso del switch basico " << endl;
   cout << "----------------------------------------------------- " << endl;
   cout << "Ingrese la Opcion de la compra " << endl;
   cout << " (1) Articulos sin Iva " << endl;
